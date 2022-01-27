@@ -1,8 +1,4 @@
-# React Projects
-
-#### Support
-
-Find the Content Useful? [You can always buy me a coffee](https://www.buymeacoffee.com/johnsmilga)
+For the 2nd project I used json placeholder api instead of the tours api
 
 #### Tutorial Video
 
@@ -10,7 +6,7 @@ Find the Content Useful? [You can always buy me a coffee](https://www.buymeacoff
 
 #### All Projects
 
-[Projects Site](https://react-projects.netlify.app/)
+
 
 ## Corresponding Tutorial Topics
 
@@ -50,9 +46,7 @@ Find the Content Useful? [You can always buy me a coffee](https://www.buymeacoff
 
 15. Cocktails
 
-## Advanced Projects (Course Exclusive)
 
-[Course Link](https://www.udemy.com/course/react-tutorial-and-projects-course/?couponCode=REACT-OCT)
 
 16. Markdown Preview
 17. Random Person
