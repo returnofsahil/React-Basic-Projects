@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React from "react";
 import data from "./data";
 import SingleQuestion from "./Question";
 function App() {
@@ -11,6 +11,7 @@ function App() {
             return (
               <SingleQuestion
                 id={item.id}
+                key={item.id}
                 title={item.title}
                 info={item.info}
               />
